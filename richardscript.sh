@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for (( c=1; c<=50; c++ )) do 
+for (( c=1; c<=100; c++ )) do 
 
 formatdb -p F -o T -i 1_sample.fa
 
